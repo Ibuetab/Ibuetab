@@ -8,9 +8,7 @@
 </head>
 
 <body>
-
-<h2 align="left">Hi! My name is Isabel and I'm a Web Developer</h2>
-
+<img src="Banner.gif" />
 
 
 <div align="center">
