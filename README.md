@@ -8,7 +8,7 @@
 </head>
 
 <body>
-<img src="Banner.gif" />
+
 
 
 <div align="center">
