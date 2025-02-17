@@ -8,7 +8,10 @@
 </head>
 
 <body>
-![Header](./Banner.gif)
+<div align="center">
+  <img src="Banner.gif" />
+
+</div>
 
 
 <div align="center">
