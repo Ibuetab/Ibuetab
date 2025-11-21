@@ -26,11 +26,11 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,python,laravel,spring,nodejs"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,python,spring,nodejs"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
@@ -38,7 +38,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,terraform,jenkins"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -46,7 +46,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
