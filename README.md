@@ -23,7 +23,7 @@
 
 > **"La única manera de hacer un gran trabajo es amar lo que haces." - Steve Jobs**
 
-Soy una desarrolladora enfocada en la **mejora continua** y la **excelencia técnica**. Si el código no es robusto, escalable y limpio, no está terminado.
+Desarrollo aplicaciones enfocándome en la **mejora continua** y la **excelencia técnica**. Si el código no es robusto, escalable y limpio, no está terminado.
 
 ---
 
