@@ -18,14 +18,41 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 
-# DevRACode.dev 
+# DevRACode
+
+## English
+
+### [ Development • Refined • Application • Code ]
+> **“The only way to do great work is to love what you do.” - Steve Jobs**
+
+I develop applications with a focus on continuous improvement and technical excellence. If the code isn't robust, scalable, and clean, it isn't finished.
+
+
+### 🛠 My Work Philosophy
+
+* **Dev**elopment: Sustainable and forward-thinking development.
+* **R**efined: Constant refinement and improvement of the code.
+* **A**pplication: Applications that solve real problems.
+* **Code**: Conscious coding. No copying and pasting code from an AI without understanding what I’m doing.
+
+
+### 🎯 What I Focus On
+* **Clean Code:** Best practices for application development
+* **Technical Rigor:** If there’s a problem to solve, it won’t be put off until later.
+* **Obsessive Refactoring:** If it can be done better, it will be done better.
+
+
+---
+
+
+## Spanish
+
 ### [ Development • Refined • Application • Code ]
 
 > **"La única manera de hacer un gran trabajo es amar lo que haces." - Steve Jobs**
 
 Desarrollo aplicaciones enfocándome en la **mejora continua** y la **excelencia técnica**. Si el código no es robusto, escalable y limpio, no está terminado.
 
----
 
 ### 🛠 Mi Filosofía de Trabajo
 
@@ -34,7 +61,6 @@ Desarrollo aplicaciones enfocándome en la **mejora continua** y la **excelencia
 * **A**pplication: Aplicaciones que resuelven problemas reales.
 * **Code**: Código con conciencia. Nada de copiar y pegar código de una IA sin entender lo que estoy haciendo.
 
----
 
 ### 🎯 En qué me enfoco
 
